@@ -24,11 +24,11 @@
                         <td><input type="password" name="password" value="" /></td>
                     </tr>
                     <tr>
-                        <td><input type="kirti" value="Kiti" /></td>
-                        <td><input type="reset" value="Reset" /></td>
+                        <td><input type="submit" value="submit" /></td>
+                        <td><input type="reset" value="chup" /></td>
                     </tr>
                     <tr>
-                        <td colspan="2">New User <a href="register.jsp">Register Here</a></td>
+                        <td colspan="2">New User <a href="register.jsp">kirtudi</a></td>
                     </tr>
                 </tbody>
             </table>
